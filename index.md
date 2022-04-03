@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Accurate Hijri Calculator
+description: This is the website of Accurate Hijri Calculator (AHC), a self-contained software for calculating Islamic Lunar Calendar 
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
